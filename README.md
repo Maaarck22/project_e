@@ -15,7 +15,7 @@ Represents registered users on the platform, who can be buyers or sellers.
  - `email`: User's email address.
  - `password`: User's encrypted password.
  - `address`: User's shipping address.
- - `type`: Type of user (buyer or seller).
+
 
 ### Product
 Represents the products available for sale on the platform.
