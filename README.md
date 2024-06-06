@@ -1,10 +1,9 @@
 
 # Project E-commerce
 
-##Introduction
+## Introduction
 Project E-commerce is an online marketplace platform designed to facilitate the buying and selling of products. The app allows users to browse a wide range of products, add them to their shopping cart and place orders safely and efficiently. The goal is to provide a seamless and accessible user experience for buyers, with robust management features.
-
-##Models 
+ 
 ## Models
 
 ### User
